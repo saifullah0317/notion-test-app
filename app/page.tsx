@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>/ route</div>
+      <div className="text-3xl font-bold">Hello World</div>
     </main>
   )
 }
